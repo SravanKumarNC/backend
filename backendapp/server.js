@@ -18,8 +18,11 @@ app.use(
       "http://localhost:3000",
       "http://localhost:3001",
       "https://control-one-d.onrender.com",
-      "http://controlone-dashboard.com.s3-website-us-west-2.amazonaws.com"
+      "http://controlone-dashboard.com.s3-website-us-west-2.amazonaws.com",
+      "http://controlone-dashboard.com.s3-website-us-west-2.amazonaws.com",
+      "https://controlone-adea.onrender.com/"
     ],
+    credentials: true,
   })
 );
 
